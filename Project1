@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Enfield Bikes</title>
+</head>
+
+<body>
+    <h1>Royal Enfield Bikes</h1>
+
+    <p>Royal Enfield is a legendary motorcycle manufacturer known for its classic and iconic bikes. Established in 1901, Royal Enfield bikes are renowned for their vintage design and powerful performance.</p>
+
+    <h2>List of Royal Enfield Bikes</h2>
+    <ul>
+        <li>
+            <h3>Royal Enfield Classic 350</h3>
+            <p>The Royal Enfield Classic 350 is a timeless cruiser bike. It features a vintage design with a powerful 350cc engine, making it a popular choice among riders who appreciate classic aesthetics and robust performance.</p>
+        </li>
+        <li>
+            <h3>Royal Enfield Bullet 500</h3>
+            <p>The Royal Enfield Bullet 500 is an iconic motorcycle with a rich heritage. It is equipped with a 500cc engine, providing a smooth and comfortable ride. The Bullet 500 is known for its reliability and enduring appeal.</p>
+        </li>
+        <li>
+            <h3>Royal Enfield Himalayan</h3>
+            <p>The Royal Enfield Himalayan is an adventure touring motorcycle designed for rugged terrains. It features a sturdy build, long-travel suspension, and a potent engine, making it an ideal choice for riders who enjoy off-road adventures and long journeys.</p>
+        </li>
+        <li>
+            <h3>Royal Enfield Interceptor 650</h3>
+            <p>The Royal Enfield Interceptor 650 is a modern classic bike that combines retro styling with contemporary technology. It is powered by a 650cc twin-cylinder engine, delivering a perfect blend of performance and elegance. The Interceptor 650 offers a smooth and exhilarating riding experience.</p>
+        </li>
+        <li>
+            <h3>Royal Enfield Continental GT 650</h3>
+            <p>The Royal Enfield Continental GT 650 is a cafe racer-inspired motorcycle known for its sporty design and dynamic performance. With a 650cc engine and agile handling, it provides a thrilling ride on both city streets and winding roads, capturing the essence of classic racing bikes.</p>
+        </li>
+    </ul>
+</body>
+
+</html>
